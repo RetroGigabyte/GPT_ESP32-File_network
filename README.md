@@ -1,6 +1,6 @@
 # GPT_ESP32-File_network
 This provides the ability to host a fake (local-only) wifi network, and host a Fileserver on a set IP adress all on a esp32.
-# Used arduino ide libraries
+# Used arduino IDE libraries
 https://github.com/adafruit/DHT-sensor-library
 https://github.com/adafruit/Adafruit_Sensor
 https://arduinojson.org/?utm_source=meta&utm_medium=library.properties
